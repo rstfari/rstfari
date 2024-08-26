@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rstfari
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning Reactjs & Design
+- 🌱 I’m currently strengthening my Reactjs skills
 - 💞️ I’m looking to collaborate on any professional web projects.
 - 📫 How to reach me is through my inbox or on discord (.innacoma)
 
